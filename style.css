@@ -1,0 +1,90 @@
+h1{
+    color:white;
+    background-color: brown;
+    border-radius: 20px;
+    text-align: center;
+    border-style:solid; 
+}
+* {
+    background:linear-gradient(to right,rgb(58, 108, 108),rgb(107, 219, 219),rgb(38, 118, 118));
+    color:white;
+}
+/*.intro{
+    background-color: brown;
+    color:white;
+}*/
+
+/*#intro{
+    background-color: skyblue;
+    color: white;
+}*/
+.intro h1{
+    color:white;
+    border-style: solid;
+    padding: 10px;
+    
+    
+}
+.intro p{
+    background-color: palevioletred;
+}
+*.intro{
+     border-style:solid ;
+     border-radius: 20px;
+     border-color: white;
+     background-image: url(https://www.pariscityvision.com/library/image/5165.jpg);
+    border:110%; 
+}
+.intro img{
+    border-radius: 100px;
+} 
+.intro button{
+    text-align: center;
+    border-style:solid ;
+    border-radius: 20px;
+    background-color: brown;
+    color:gold;
+}
+
+.first{
+    border-style: solid;
+    border-radius: 20px;
+    background-color: palevioletred;
+    width: 45%;
+    float: left;
+}
+h2{
+    color:red;
+    background-color: blue;
+    border-radius: 20px;
+    text-align: center;
+    border-style:solid; 
+    padding: 20px;
+}
+.zero{
+    border-radius: 20px;
+    border-style:"solid";
+    background-color: aqua;
+    color: black;
+}
+.second {
+     border-style: solid;
+     border-radius: 20px;
+     width:45%;
+     background-color: brown;
+     color: white;
+     float:right;
+     border-color: black;
+     float: top;
+     text-align: justify;
+}
+/**.whole{
+     border-style: solid;
+     background: linear-gradient(to top,darkblue,blue,aqua);
+}*/
+.first{
+    background: linear-gradient(to left,darkb);
+}
+.second h2{
+      margin-right: 20px;
+}
